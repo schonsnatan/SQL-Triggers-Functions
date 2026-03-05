@@ -1,4 +1,4 @@
-## **Overview:**
+## **Overview**
 
 This project aims to bring the use of triggers, materialized views, and functions to a Business Intelligence process, where this data could be used to populate a dashboard in Power BI or Streamlit, for example.
 
